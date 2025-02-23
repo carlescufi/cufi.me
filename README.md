@@ -1,2 +1,0 @@
-# cufi.me
-Family website
