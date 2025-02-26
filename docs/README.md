@@ -17,4 +17,5 @@ Some info on how to make a site like this and how it works.
 
 - [About](about.md)
 - [Stories](stories.md)
+- [Site](site.md)
 
